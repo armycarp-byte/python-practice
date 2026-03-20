@@ -8,3 +8,8 @@ def greet(lang):
 greet('en')
 greet('es')
 greet('fr')
+
+def hihi():
+    return "Hello"
+print(hihi(), "Peter")
+print(hihi(), "Lois")
